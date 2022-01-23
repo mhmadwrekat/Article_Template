@@ -33,10 +33,7 @@ color:white;}
     text-transform: uppercase;}
 .a-li{color:white;
 text-decoration: none;}
-.a-li:hover{color: coral; }
-.nav-li{padding-right: 20px;}
-.nav-li:hover {
-    color: coral;
+.a-li:hover{    color: coral;
     cursor: grab ;
     border-style:solid;
     border-width:1px;  
@@ -44,6 +41,7 @@ text-decoration: none;}
     border-right-color:black;
     border-left-color:black;
     border-bottom-color:coral;  }
+.nav-li{padding-right: 20px;}
 .hero{background-image: url("../assest/hero.jpg");
     height: 500px;
     background-position: bottom;
